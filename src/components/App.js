@@ -6,7 +6,7 @@ import About from './About';
 import user from '../data/user';
 console.log(user);
 
-function App(props) {
+function App() {
   return (
     <div>
       <NavBar />
